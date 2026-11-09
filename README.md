@@ -1,4 +1,4 @@
-# Human Stability Test 🧪
+# Human Annoyance Tester 🧪
 
 A small interactive HTML/CSS/JavaScript project for a WebDev club task.
 
